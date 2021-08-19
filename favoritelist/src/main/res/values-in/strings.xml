@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite List</string>
+    <string name="search">Search</string>
+    <string name="username">Nama User: %s</string>
+    <string name="name">Nama: %s</string>
+    <string name="location">Lokasi: %s</string>
+    <string name="repository">Repositori: %s</string>
+    <string name="company">Perusahaan: %s</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="share">Bagikan Pofil ini</string>
+    <string name="share_msg">Kunjungi profil %s di https://github.com/%s</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_fav_msg">"%s ditambahkan ke favorit anda"</string>
+    <string name="delete_fav_msg">"%s dihapus dari favorit anda"</string>
+    <string name="empty_msg">Favorit anda kosong</string>
+    <string name="notification_setting">Pengaturan Notifikasi</string>
+    <string name="daily_reminder_setting">Pengingat Harian</string>
+    <string name="notif_msg">Jangan lupa untuk cek aplikasi hari ini :)</string>
+    <string name="active_msg">Pengingat Harian Aktif</string>
+    <string name="inactive_msg">Pengingat Harian Tidak Aktif</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="username">Username: %s</string>
+    <string name="name">Name: %s</string>
+    <string name="location">Location: %s</string>
+    <string name="repository">Repository: %s</string>
+    <string name="company">Company: %s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="share">Share this profile</string>
+    <string name="share_msg">Check out %s\'s profile on https://github.com/%s</string>
+    <string name="change_language">Change Language</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_fav_msg">"%s added to your favorite"</string>
+    <string name="delete_fav_msg">"%s deleted from your favorite"</string>
+    <string name="empty_msg">Your favorite is empty</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="daily_reminder_setting">Daily Reminder</string>
+    <string name="notif_msg">Don\'t forget to check the app today :)</string>
+    <string name="active_msg">Daily Reminder Active</string>
+    <string name="inactive_msg">Daily Reminder Not Active</string>
+</resources>
